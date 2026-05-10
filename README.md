@@ -252,7 +252,7 @@ Emthn/
 
 | Decision | Reason |
 |---|---|
-| Multi-tenant architecture | Each school's data is fully isolated — no cross-tenant data leaks |
+| Multi-tenant architecture | Each teacher's data is fully isolated — no cross-tenant data leaks |
 | Clean Architecture on backend | Separation of concerns, testable, scalable without god-classes |
 | Angular Signals for state | Simpler reactivity model than full NgRx for component-local state |
 | JWT + middleware RBAC | Auth enforced at both UI (guards) and API (middleware) levels |
