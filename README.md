@@ -35,7 +35,7 @@ The platform supports **multi-tenant architecture**, meaning each school or inst
 | Real-time | SignalR |
 | Database | SQL Server |
 | Hosting | Vercel (frontend) |
-| UI | Angular Material, SCSS, Responsive / Mobile-first |
+| UI | TailwindCSS | Responsive / Mobile-first |
 
 ---
 
