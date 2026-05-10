@@ -78,7 +78,7 @@ Creating an exam follows a guided 4-step wizard: Basic Info → Targeting → Qu
 Configure exam name, subject, chapter, difficulty level, duration, start time, and behavioral settings (shuffle questions, allow backtracking, show choices).
 
 <div align="center">
-  <img src="assets/Create_Exam_Basic_Info.gif" width="700" alt="Create Exam - Basic Info" />
+  <img src="assets/Create Exam Basic Info.gif" width="700" alt="Create Exam - Basic Info" />
 </div>
 
 #### Step 2 — Targeting
