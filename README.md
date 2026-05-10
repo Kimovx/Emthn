@@ -7,7 +7,7 @@
 *Built end-to-end with Angular v21 & .NET Web API*
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-emthn.vercel.app-6C47FF?style=for-the-badge&logo=vercel&logoColor=white)](https://emthn.vercel.app)
-[![Angular](https://img.shields.io/badge/Angular_v16+-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io)
+[![Angular](https://img.shields.io/badge/Angular_v21-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io)
 [![.NET](https://img.shields.io/badge/.NET_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
