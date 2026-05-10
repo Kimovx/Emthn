@@ -29,7 +29,7 @@ The platform supports **multi-tenant architecture**, meaning each school or inst
 
 | Layer | Technology |
 |---|---|
-| Frontend | Angular v16+, TypeScript, RxJS, NgRx Signals |
+| Frontend | Angular v21, TypeScript, RxJS, NgRx Signals |
 | Backend | .NET Web API, Clean Architecture |
 | Auth | JWT Authentication, Role-based Access Control (RBAC) |
 | Real-time | SignalR |
