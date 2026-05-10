@@ -85,21 +85,21 @@ Configure exam name, subject, chapter, difficulty level, duration, start time, a
 Define exactly who takes this exam — select specific classes, student groups, or individual students. The targeting engine supports combining multiple dimensions.
 
 <div align="center">
-  <img src="assets/Create_Exam_Targeting_Step.gif" width="700" alt="Create Exam - Targeting" />
+  <img src="assets/Create Exam Targeting Step.gif" width="700" alt="Create Exam - Targeting" />
 </div>
 
 #### Step 3 — Select Questions
 Pick questions directly from the Question Bank. Questions are filterable by subject, chapter, difficulty, and type. The counter updates in real time as you add/remove.
 
 <div align="center">
-  <img src="assets/Create_Select_Questions_Step.gif" width="700" alt="Create Exam - Select Questions" />
+  <img src="assets/Create Select Questions Step.gif" width="700" alt="Create Exam - Select Questions" />
 </div>
 
 #### Step 4 — Review & Publish
 Full summary before going live: exam name, target audience, question count, total score, duration, and all settings — with one-click publish or save as draft.
 
 <div align="center">
-  <img src="assets/Complelete_Drafts.gif" width="700" alt="Drafts & Review" />
+  <img src="assets/Complelete Drafts.gif" width="700" alt="Drafts & Review" />
 </div>
 
 ---
@@ -114,14 +114,14 @@ A reusable library of questions scoped per teacher and subject. Questions can be
 - Questions carry metadata: subject, chapter, difficulty badge, type tag
 
 <div align="center">
-  <img src="assets/Questions_Bank_Page.gif" width="700" alt="Question Bank" />
+  <img src="assets/Questions Bank Page.gif" width="700" alt="Question Bank" />
 </div>
 
 #### Creating a Question
 Add MCQ or True/False questions with full configuration — correct answer, difficulty level, subject, and chapter assignment.
 
 <div align="center">
-  <img src="assets/Create_Question.gif" width="700" alt="Create Question" />
+  <img src="assets/Create Question.gif" width="700" alt="Create Question" />
 </div>
 
 ---
@@ -135,7 +135,7 @@ Organize content hierarchically: Subjects → Chapters. Questions and exams are 
 - Chapter-level question filtering in the bank and exam wizard
 
 <div align="center">
-  <img src="assets/Subject_Profile___Create_Chapter.gif" width="700" alt="Subject & Chapter Management" />
+  <img src="assets/Subject Profile & Create Chapter.gif" width="700" alt="Subject & Chapter Management" />
 </div>
 
 ---
@@ -145,14 +145,14 @@ Organize content hierarchically: Subjects → Chapters. Questions and exams are 
 All exams in one place — filterable by status (Draft, Active, Completed), difficulty, subject, and date. The table shows all key info at a glance: title, difficulty, date, time, duration, questions, and target audience.
 
 <div align="center">
-  <img src="assets/Exam_Filters.gif" width="700" alt="Exam Filters" />
+  <img src="assets/Exam Filters.gif" width="700" alt="Exam Filters" />
 </div>
 
 #### Exam Profile
 Each exam has a dedicated profile page showing its full configuration, status, targeting details, and quick actions.
 
 <div align="center">
-  <img src="assets/Exam_Profile.gif" width="700" alt="Exam Profile" />
+  <img src="assets/Exam Profile.gif" width="700" alt="Exam Profile" />
 </div>
 
 ---
@@ -162,11 +162,11 @@ Each exam has a dedicated profile page showing its full configuration, status, t
 Teachers create grade boundaries (A, B, C, etc.) with score ranges. The system auto-assigns grades when results are calculated — no manual grading needed.
 
 <div align="center">
-  <img src="assets/Create_Grade.gif" width="700" alt="Smart Grading System" />
+  <img src="assets/Create Grade.gif" width="700" alt="Smart Grading System" />
 </div>
 
 <div align="center">
-  <img src="assets/Smart_Grading_System.gif" width="700" alt="Grade Assignment" />
+  <img src="assets/Smart Grading System.gif" width="700" alt="Grade Assignment" />
 </div>
 
 ---
@@ -182,14 +182,14 @@ After an exam closes, the teacher gets a full analytics page:
 - Per-student breakdown: name, score, time taken, submission status
 
 <div align="center">
-  <img src="assets/Exam_Insights.gif" width="700" alt="Exam Insights" />
+  <img src="assets/Exam Insights.gif" width="700" alt="Exam Insights" />
 </div>
 
 #### Result Publishing Control
 Teachers control exactly when students can see their results — results stay hidden until the teacher explicitly publishes them.
 
 <div align="center">
-  <img src="assets/Publish_Results_Control.gif" width="700" alt="Publish Results Control" />
+  <img src="assets/Publish Results Control.gif" width="700" alt="Publish Results Control" />
 </div>
 
 ---
@@ -205,14 +205,14 @@ A completely separate portal for students. Clean, focused, distraction-free.
 - Track completed vs. active exam count
 
 <div align="center">
-  <img src="assets/Student_Portal.gif" width="700" alt="Student Portal" />
+  <img src="assets/Student Portal.gif" width="700" alt="Student Portal" />
 </div>
 
 #### Exam UX
 The in-exam experience is designed to keep students focused: one question at a time or paginated, with a visible timer, progress indicator, and clear submit flow.
 
 <div align="center">
-  <img src="assets/Exam_UX.gif" width="700" alt="Exam UX" />
+  <img src="assets/Exam UX.gif" width="700" alt="Exam UX" />
 </div>
 
 ---
@@ -222,7 +222,7 @@ The in-exam experience is designed to keep students focused: one question at a t
 The entire platform is mobile-first. Every page — from the teacher dashboard to the student exam portal — adapts cleanly to any screen size.
 
 <div align="center">
-  <img src="assets/Responsive_UI_.gif" width="700" alt="Responsive UI" />
+  <img src="assets/Responsive UI .gif" width="700" alt="Responsive UI" />
 </div>
 
 ---
